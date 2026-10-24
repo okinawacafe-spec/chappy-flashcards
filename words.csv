@@ -1,0 +1,51 @@
+﻿id,english,japanese,category
+1,harvest,収穫する,農業
+2,sow seeds,種をまく,農業
+3,plant seedlings,苗を植える,農業
+4,water the plants,植物に水をやる,農業
+5,irrigation,灌水・灌漑,農業
+6,fertilizer,肥料,農業
+7,soil,土壌,農業
+8,greenhouse,温室・ハウス,農業
+9,field,畑,農業
+10,seedling,苗,農業
+11,prune,剪定する,農業
+12,weed,雑草・草取りをする,農業
+13,pest,害虫,農業
+14,aphid,アブラムシ,農業
+15,whitefly,コナジラミ,農業
+16,thrips,アザミウマ,農業
+17,downy mildew,べと病,農業
+18,spray the crops,作物に薬剤を散布する,農業
+19,check the leaves,葉を確認する,農業
+20,fresh herbs,生のハーブ,農業
+21,basil,バジル,農業
+22,peppermint,ペパーミント,農業
+23,rosemary,ローズマリー,農業
+24,the soil is dry,土が乾いている,農業
+25,ready to harvest,収穫できる状態,農業
+26,crafting table,作業台,Minecraft
+27,furnace,かまど,Minecraft
+28,pickaxe,ツルハシ,Minecraft
+29,shovel,シャベル,Minecraft
+30,iron ingot,鉄インゴット,Minecraft
+31,diamond,ダイヤモンド,Minecraft
+32,redstone,レッドストーン,Minecraft
+33,torch,松明,Minecraft
+34,chest,チェスト,Minecraft
+35,villager,村人,Minecraft
+36,creeper,クリーパー,Minecraft
+37,zombie,ゾンビ,Minecraft
+38,skeleton,スケルトン,Minecraft
+39,spawn point,スポーン地点,Minecraft
+40,survival mode,サバイバルモード,Minecraft
+41,build a house,家を建てる,Minecraft
+42,mine some iron,鉄を採掘する,Minecraft
+43,craft a sword,剣を作る,Minecraft
+44,plant wheat,小麦を植える,Minecraft
+45,feed the animals,動物に餌をやる,Minecraft
+46,sleep in a bed,ベッドで寝る,Minecraft
+47,light up the area,周囲を明るくする,Minecraft
+48,open the inventory,インベントリを開く,Minecraft
+49,watch out for creepers,クリーパーに気をつけて,Minecraft
+50,I need more wood.,もっと木材が必要だ。,Minecraft
